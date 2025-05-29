@@ -1,3 +1,4 @@
 # myportfolio
-This is my first repository
-Author - Bhavya Sree
+This is my first Git Repository.
+<br>
+Author - Bhavya Sree.
