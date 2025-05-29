@@ -137,13 +137,13 @@ body {
 }
 
 #projects {
-  margin-top: 200px;
+  margin-top: 50px;
   text-align: center;
   padding: 2rem;
 }
 
 #projects .heading {
-  margin-top: 200px;
+  margin-top: 30px;
   margin-bottom: 100px;
 }
 
@@ -184,13 +184,13 @@ body {
 
 #skills {
   text-align: center;
-  margin-top: 200px;
+  margin-top: 50px;
   padding: 40px;
   padding: 60px 20px;
 }
 
 #skills .heading {
-  margin-top: 200px;
+  margin-top: 50px;
   margin-bottom: 100px;
 }
 
@@ -214,7 +214,7 @@ body {
 
 #contact {
   text-align: center;
-  margin-top: 200px;
+  margin-top: 60px;
   padding: 40px;
   padding: 60px 20px;
   margin-bottom: 150px;
